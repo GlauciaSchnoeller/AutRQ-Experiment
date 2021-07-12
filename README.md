@@ -1,0 +1,1 @@
+This repository includes the materials used in evaluating the AutRQ framework. It presents requirements and conceptual models extracted from user stories and use cases.
